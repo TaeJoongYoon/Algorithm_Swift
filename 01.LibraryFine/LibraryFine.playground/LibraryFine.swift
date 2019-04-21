@@ -1,11 +1,12 @@
 import Foundation
 
+// HackerRank : https://www.hackerrank.com/challenges/library-fine/problem
+
 struct Day {
   var year: Int
   var month: Int
   var day: Int
 }
-
 
 func libraryFine(d1: Int, m1: Int, y1: Int, d2: Int, m2: Int, y2: Int) -> Int {
   
