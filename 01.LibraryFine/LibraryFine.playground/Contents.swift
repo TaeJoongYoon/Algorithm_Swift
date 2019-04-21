@@ -1,6 +1,6 @@
 import Foundation
 
-// HackerRank : https://www.hackerrank.com/challenges/library-fine/problem
+// HackerRank : https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
 
 struct Day {
   var year: Int
