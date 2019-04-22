@@ -18,3 +18,5 @@
 [04.2nTiling](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/04.2nTiling/2nTiling.playground/Contents.swift>)
 
 [05.2nTiling2](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/05.2nTiling2/2nTiling2.playground/Contents.swift>)
+
+[06.Tiling](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/06.Tiling/Tiling.playground/Contents.swift>)
