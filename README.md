@@ -21,4 +21,4 @@
 
 [06.Tiling](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/06.Tiling/Tiling.playground/Contents.swift>)
 
-[07.FraudulentActivityNotifications](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/06.FraudulentActivityNotifications/FraudulentActivityNotifications.playground/Contents.swift>)
+[07.FraudulentActivityNotifications](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/07.FraudulentActivityNotifications/FraudulentActivityNotifications.playground/Contents.swift>)
