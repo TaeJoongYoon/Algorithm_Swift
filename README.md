@@ -32,3 +32,5 @@
 [11.Missing-Numbers](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/11.Missing-Numbers/MissingNumbers.playground/Contents.swift>)
 
 [12.Pairs](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/12.Pairs/Pairs.playground/Contents.swift>)
+
+[13.Sherlock-And-Array](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/13.Sherlock-And-Array/SherlockAndArray.playground/Contents.swift>)
