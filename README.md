@@ -38,3 +38,5 @@
 [14.Connected-Cell-in-A-Grid](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/14.Connected-Cell-in-A-Grid/ConnectedCellinAGrid.playground/Contents.swift>)
 
 [15.Lonely-Integer](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/15.Lonely-Integer/LonelyInteger.playground/Contents.swift>)
+
+[16.maximizingXOR](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/16.maximizingXOR/maximizingXOR.playground/Contents.swift>)
