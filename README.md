@@ -42,3 +42,5 @@
 [16.Maximizing XOR](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/16.Maximizing XOR/maximizingXOR.playground/Contents.swift>)
 
 [17.Counter Game](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/17.Counter Game/CounterGame.playground/Contents.swift>)
+
+[18.Extra Long Factorials](<https://github.com/TaeJoongYoon/Algorithm_Swift/blob/master/18.Extra Long Factorials/ExtraLongFactorials.playground/Contents.swift>)
